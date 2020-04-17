@@ -37,4 +37,6 @@ while length > 1:
     else:
         f = mid
         mid = len(n[mid + 1]) / 2
+
+return f
 ```
